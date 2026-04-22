@@ -1,4 +1,4 @@
-# Iae, eu sou o Kayque 👋
+# Iae, eu sou o Kayque 
 
 - Bacharel em Ciência da Computação
 - Focado em IoT e Sistemas Embarcados
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou desenvolvedor com foco em sistemas embarcados e Internet das Coisas (IoT), atuando na integração entre hardware e software para construção de soluções inteligentes.
 
@@ -45,20 +45,20 @@ Tenho experiência prática com microcontroladores, sensores e automação, dese
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Atuar com desenvolvimento de sistemas embarcados e IoT, criando soluções eficientes, escaláveis e aplicáveis ao mundo real.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 * LinkedIn: (www.linkedin.com/in/kayque-brasil)
 * Email: (kayque-brasil@outlook.com)
 
 ---
 
-## ⚡ GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayqueBrasil\&show_icons=true\&theme=dark)
 
