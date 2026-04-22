@@ -56,10 +56,3 @@ Atuar com desenvolvimento de sistemas embarcados e IoT, criando soluções efici
 * LinkedIn: (www.linkedin.com/in/kayque-brasil)
 * Email: (kayque-brasil@outlook.com)
 
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayqueBrasil\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayqueBrasil\&layout=compact\&theme=dark)
