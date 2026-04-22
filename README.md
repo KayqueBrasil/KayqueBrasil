@@ -38,7 +38,7 @@ Tenho experiência prática com microcontroladores, sensores e automação, dese
 * Controle automático de irrigação com base em lógica embarcada
 * Aplicação prática em cenários de agricultura ou jardinagem inteligente
 
-### 📟 Integração com display OLED (ESP32)
+### Integração com display OLED (ESP32)
 
 * Exibição de dados em tempo real
 * Interface embarcada para monitoramento
